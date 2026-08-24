@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>The Ghost Foundation | Help the Helpers</title>
+
+  <meta
+    name="description"
+    content="The Ghost Foundation helps nonprofits, community organizations, and human-service programs strengthen programs, develop practical training, improve systems, and create measurable impact."
+  >
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+  <!-- HEADER -->
+  <header class="site-header">
+    <div class="container nav-wrapper">
+
+      <a href="#home" class="brand">
+        <span class="brand-name">The Ghost Foundation</span>
+        <span class="brand-tagline">Help the Helpers.</span>
+      </a>
+
+      <nav class="main-nav" aria-label="Main navigation">
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#workshops">Workshops</a>
+        <a href="#who-we-serve">Who We Serve</a>
+        <a href="#spotlight">Nonprofit Spotlight</a>
+        <a href="#contact">Contact</a>
+      </nav>
+
+    </div>
+  </header>
+
+
+  <main>
+
+    <!-- HERO -->
+    <section id="home" class="hero">
+      <div class="container hero-content">
+
+        <p class="eyebrow">Community Program Development • Training • Evaluation</p>
+
+        <h1>Help the Helpers.</h1>
+
+        <p class="hero-subtitle">
+          Stronger programs. Better systems. Practical training.
+          Measurable impact.
+        </p>
+
+        <p class="hero-description">
+          The Ghost Foundation helps organizations that help people become
+          better at helping people. We work behind the scenes to strengthen
+          programs, develop practical tools and training, improve operations,
+          and help organizations turn good intentions into lasting results.
+        </p>
+
+        <div class="button-group">
+          <a href="#contact" class="button button-primary">
+            Tell Us What Your Program Needs
+          </a>
+
+          <a href="#services" class="button button-secondary">
+            Explore Our Services
+          </a>
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- THE CHALLENGE -->
+    <section class="section section-light">
+      <div class="container narrow">
+
+        <p class="section-label">The Challenge</p>
+
+        <h2>A strong mission needs a strong foundation.</h2>
+
+        <p class="large-text">
+          Many organizations are doing important work with limited staff,
+          limited funding, and very little time to build the systems behind
+          their mission.
+        </p>
+
+        <p>
+          Programs may have passionate people and meaningful goals while still
+          struggling with inconsistent procedures, gaps in training, unclear
+          outcomes, outdated materials, or processes that simply do not work
+          well in the real world.
+        </p>
+
+        <p>
+          That is where The Ghost Foundation comes in.
+        </p>
+
+      </div>
+    </section>
+
+
+    <!-- SERVICES -->
+    <section id="services" class="section">
+      <div class="container">
+
+        <p class="section-label">What We Do</p>
+
+        <h2>Practical support for organizations doing meaningful work.</h2>
+
+        <div class="card-grid">
+
+          <article class="service-card">
+            <h3>Program Development</h3>
+            <p>
+              Build new community-based programs from the ground up, including
+              structure, participant processes, implementation planning,
+              service delivery, and outcome goals.
+            </p>
+          </article>
+
+          <article class="service-card">
+            <h3>Program Improvement</h3>
+            <p>
+              Review existing programs, identify gaps and barriers, strengthen
+              processes, and develop realistic improvements that can actually
+              be implemented.
+            </p>
+          </article>
+
+          <article class="service-card">
+            <h3>Workshops & Training</h3>
+            <p>
+              Develop customized skill-building workshops, facilitator guides,
+              participant materials, activities, presentations, and evaluation
+              tools.
+            </p>
+          </article>
+
+          <article class="service-card">
+            <h3>Policies & Operations</h3>
+            <p>
+              Create or improve handbooks, forms, procedures, workflows,
+              participant documentation, and internal systems that support
+              consistency and accountability.
+            </p>
+          </article>
+
+          <article class="service-card">
+            <h3>Evaluation & Outcomes</h3>
+            <p>
+              Help organizations measure whether their programs are producing
+              the intended results through surveys, assessments, KPIs, data
+              review, and outcome reporting.
+            </p>
+          </article>
+
+          <article class="service-card">
+            <h3>Research & Needs Assessment</h3>
+            <p>
+              Use community data, research, evidence, demographic information,
+              and resource analysis to better understand needs and support
+              informed program decisions.
+            </p>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+
+    <!-- WHY GHOST FOUNDATION -->
+    <section id="about" class="section section-purple">
+      <div class="container">
+
+        <div class="two-column">
+
+          <div>
+            <p class="section-label light-label">Why The Ghost Foundation</p>
+
+            <h2>Good ideas should work outside of a conference room.</h2>
+
+            <p>
+              We believe program development should be informed by evidence,
+              strengthened by data, and grounded in the realities of the people
+              being served.
+            </p>
+
+            <p>
+              Our goal is not to create impressive documents that sit on a
+              shelf. We help build tools, training, and systems that staff,
+              volunteers, participants, and communities can actually use.
+            </p>
+          </div>
+
+          <div class="values-list">
+
+            <div class="value-item">
+              <h3>Practical</h3>
+              <p>Solutions designed for real-world implementation.</p>
+            </div>
+
+            <div class="value-item">
+              <h3>Customized</h3>
+              <p>
+                Built around the organization, population, and problem rather
+                than a one-size-fits-all template.
+              </p>
+            </div>
+
+            <div class="value-item">
+              <h3>Evidence-Informed</h3>
+              <p>
+                Research, data, evaluation, and measurable outcomes are built
+                into the process.
+              </p>
+            </div>
+
+            <div class="value-item">
+              <h3>Human-Centered</h3>
+              <p>
+                Systems matter, but the people affected by those systems matter
+                more.
+              </p>
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+
+    <!-- WHO WE SERVE -->
+    <section id="who-we-serve" class="section">
+      <div class="container">
+
+        <p class="section-label">Who We Serve</p>
+
+        <h2>Built for organizations working directly with people and communities.</h2>
+
+        <div class="audience-grid">
+
+          <div class="audience-card">
+            <h3>Nonprofits</h3>
+          </div>
+
+          <div class="audience-card">
+            <h3>Community-Based Organizations</h3>
+          </div>
+
+          <div class="audience-card">
+            <h3>Faith-Based Programs</h3>
+          </div>
+
+          <div class="audience-card">
+            <h3>Human-Service Organizations</h3>
+          </div>
+
+          <div class="audience-card">
+            <h3>Transitional & Supportive Programs</h3>
+          </div>
+
+          <div class="audience-card">
+            <h3>Grassroots & Emerging Organizations</h3>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- WORKSHOPS -->
+    <section id="workshops" class="section section-soft">
+      <div class="container two-column">
+
+        <div>
+          <p class="section-label">Workshops & Training</p>
+
+          <h2>Training that multiplies. Change that lasts.</h2>
+
+          <p>
+            The Ghost Foundation develops practical skill-development training
+            for organizations, staff, volunteers, and program participants.
+          </p>
+
+          <p>
+            Workshops can be completely customized or developed as reusable
+            training packages that organizations can deliver again and again.
+          </p>
+
+          <a href="#contact" class="text-link">
+            Ask about custom workshop development →
+          </a>
+        </div>
+
+        <div class="feature-box">
+
+          <h3>Workshop packages can include:</h3>
+
+          <ul>
+            <li>Facilitator guides</li>
+            <li>Timed lesson plans</li>
+            <li>Participant workbooks</li>
+            <li>Handouts and activities</li>
+            <li>Presentation materials</li>
+            <li>Pre- and post-assessments</li>
+            <li>Evaluation tools</li>
+            <li>Material lists</li>
+            <li>Customization guidance</li>
+          </ul>
+
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- NONPROFIT SPOTLIGHT -->
+    <section id="spotlight" class="section spotlight-section">
+      <div class="container">
+
+        <p class="section-label">Community Impact</p>
+
+        <h2>Nonprofit Spotlight</h2>
+
+        <p class="spotlight-intro">
+          Each week, The Ghost Foundation will highlight a nonprofit making a
+          difference in its community. The goal is simple: increase visibility,
+          encourage connection, and help more people discover organizations
+          doing work worth knowing about.
+        </p>
+
+        <div class="spotlight-card">
+
+          <div class="spotlight-placeholder">
+            <span>Weekly Featured Nonprofit</span>
+          </div>
+
+          <div class="spotlight-content">
+            <p class="small-label">THIS WEEK'S SPOTLIGHT</p>
+
+            <h3>Coming Soon</h3>
+
+            <p>
+              Our first featured nonprofit will appear here with information
+              about its mission, community, services, current needs, and ways
+              people can support its work.
+            </p>
+
+            <a href="#" class="text-link">
+              View the Nonprofit Spotlight →
+            </a>
+          </div>
+
+        </div>
+
+        <div class="spotlight-actions">
+
+          <div class="action-card">
+            <h3>Know an organization doing great work?</h3>
+
+            <p>
+              Help us discover nonprofits making a meaningful difference in
+              their communities.
+            </p>
+
+            <a href="#contact" class="button button-primary">
+              Nominate a Nonprofit
+            </a>
+          </div>
+
+          <div class="action-card">
+            <h3>Want to help strengthen a nonprofit?</h3>
+
+            <p>
+              Individuals, businesses, and organizations will be able to help
+              sponsor services, training, or other support for selected
+              nonprofits.
+            </p>
+
+            <a href="#contact" class="button button-outline">
+              Sponsor a Nonprofit
+            </a>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- FINAL CTA -->
+    <section id="contact" class="section final-cta">
+      <div class="container narrow">
+
+        <p class="section-label">Start a Conversation</p>
+
+        <h2>What does your program need?</h2>
+
+        <p class="large-text">
+          You do not have to know exactly what service you need before reaching
+          out. Start by telling us what your organization is trying to
+          accomplish, where you are getting stuck, or what you want to improve.
+        </p>
+
+        <a
+          href="mailto:contact@theghostfoundation.net"
+          class="button button-primary"
+        >
+          Contact The Ghost Foundation
+        </a>
+
+      </div>
+    </section>
+
+  </main>
+
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="container footer-content">
+
+      <div>
+        <strong>The Ghost Foundation, LLC</strong>
+        <p>Helping the helpers build stronger systems for lasting impact.</p>
+      </div>
+
+      <div>
+        <p>
+          © 2026 The Ghost Foundation, LLC. All rights reserved.
+        </p>
+      </div>
+
+    </div>
+  </footer>
+
+</body>
+</html>
